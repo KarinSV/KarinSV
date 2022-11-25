@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/frontend_learning_path.png"/>
+</div>
+
 ## Hi there 👋 
 <div id="header">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/>
